@@ -1,4 +1,3 @@
-// Firebase Console > Configurações do projeto > Geral > Seus apps > SDK da Web
 export const firebaseConfig = {
   apiKey: "AIzaSyA0yBK5Jv52XZuE9t03ft30V_feSiQszKY",
   authDomain: "labontime-76bc7.firebaseapp.com",
